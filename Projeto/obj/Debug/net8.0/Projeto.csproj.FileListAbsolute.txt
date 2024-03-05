@@ -1,0 +1,28 @@
+/media/dev_marcos/Novo volume/Projetos C#/Projeto/bin/Debug/net8.0/Projeto
+/media/dev_marcos/Novo volume/Projetos C#/Projeto/bin/Debug/net8.0/Projeto.deps.json
+/media/dev_marcos/Novo volume/Projetos C#/Projeto/bin/Debug/net8.0/Projeto.runtimeconfig.json
+/media/dev_marcos/Novo volume/Projetos C#/Projeto/bin/Debug/net8.0/Projeto.dll
+/media/dev_marcos/Novo volume/Projetos C#/Projeto/bin/Debug/net8.0/Projeto.pdb
+/media/dev_marcos/Novo volume/Projetos C#/Projeto/obj/Debug/net8.0/Projeto.GeneratedMSBuildEditorConfig.editorconfig
+/media/dev_marcos/Novo volume/Projetos C#/Projeto/obj/Debug/net8.0/Projeto.AssemblyInfoInputs.cache
+/media/dev_marcos/Novo volume/Projetos C#/Projeto/obj/Debug/net8.0/Projeto.AssemblyInfo.cs
+/media/dev_marcos/Novo volume/Projetos C#/Projeto/obj/Debug/net8.0/Projeto.csproj.CoreCompileInputs.cache
+/media/dev_marcos/Novo volume/Projetos C#/Projeto/obj/Debug/net8.0/Projeto.dll
+/media/dev_marcos/Novo volume/Projetos C#/Projeto/obj/Debug/net8.0/refint/Projeto.dll
+/media/dev_marcos/Novo volume/Projetos C#/Projeto/obj/Debug/net8.0/Projeto.pdb
+/media/dev_marcos/Novo volume/Projetos C#/Projeto/obj/Debug/net8.0/Projeto.genruntimeconfig.cache
+/media/dev_marcos/Novo volume/Projetos C#/Projeto/obj/Debug/net8.0/ref/Projeto.dll
+D:\Projetos C#\Projeto\bin\Debug\net8.0\Projeto.exe
+D:\Projetos C#\Projeto\bin\Debug\net8.0\Projeto.deps.json
+D:\Projetos C#\Projeto\bin\Debug\net8.0\Projeto.runtimeconfig.json
+D:\Projetos C#\Projeto\bin\Debug\net8.0\Projeto.dll
+D:\Projetos C#\Projeto\bin\Debug\net8.0\Projeto.pdb
+D:\Projetos C#\Projeto\obj\Debug\net8.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfoInputs.cache
+D:\Projetos C#\Projeto\obj\Debug\net8.0\Projeto.AssemblyInfo.cs
+D:\Projetos C#\Projeto\obj\Debug\net8.0\Projeto.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Projeto\obj\Debug\net8.0\Projeto.dll
+D:\Projetos C#\Projeto\obj\Debug\net8.0\refint\Projeto.dll
+D:\Projetos C#\Projeto\obj\Debug\net8.0\Projeto.pdb
+D:\Projetos C#\Projeto\obj\Debug\net8.0\Projeto.genruntimeconfig.cache
+D:\Projetos C#\Projeto\obj\Debug\net8.0\ref\Projeto.dll
